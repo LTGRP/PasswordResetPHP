@@ -25,7 +25,7 @@ The FileMaker database includes scripts to dynamically create FileMaker accounts
 * [Handling File Upload With Cloudinary](https://cloudinary.com/blog/file_upload_with_php#handling_file_upload_with_cloudinary)
 
 ## Demo
-[Registration Form](http://www.asktami.com/demo/PasswordResetPHP/index.php?page=register&register)
+[Register, Login, Try Everything Out](http://www.asktami.com/demo/PasswordResetPHP/index.php?page=register&register)
 
 ## Screenshots
 
