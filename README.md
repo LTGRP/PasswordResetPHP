@@ -12,20 +12,20 @@ You can use either MySQL or FileMaker as your database. Sample MySQL and FileMak
 The FileMaker database includes scripts to dynamically create FileMaker accounts and put uploaded files into a container field.
 
 
-##NOTE:
+## NOTE:
 **The FileMaker username is Admin, password is admin.**
 
  
-##NOTE: 
+## NOTE: 
 This code stores passwords in the database in plain text. <strong>Never store passwords in plain text!</strong> It is only done here for demonstration purposes. If you use this code in a real site remove all references to the **password_plaintext** field from **register.php** and **reset_password.php** and remove the **password_plaintext** field from the **user** table.
 
 
-##Inspiration
+## Inspiration
 [Everything you ever wanted to know about building a secure password reset feature](https://www.troyhunt.com/everything-you-ever-wanted-to-know/)
 [PHP: simple multiple file upload](https://gist.github.com/N-Porsh/7766039)
 [Handling File Upload With Cloudinary](https://cloudinary.com/blog/file_upload_with_php#handling_file_upload_with_cloudinary)
 
 
-###Screenshots
+### Screenshots
 ![registration form](https://github.com/asktami/PasswordResetPHP/blob/master/img/Screenshots/1_registration_form.png)
 ![login form](https://github.com/asktami/PasswordResetPHP/blob/master/img/Screenshots/2_login_form.png)
