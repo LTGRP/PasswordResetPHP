@@ -25,6 +25,8 @@ The FileMaker database includes scripts to dynamically create FileMaker accounts
 
 ## Screenshots
 
+![multiple field upload form](https://github.com/asktami/PasswordResetPHP/blob/master/img/Screenshots/multiple_file_upload.png)
+
 ![registration pageflow](https://github.com/asktami/PasswordResetPHP/blob/master/__PAGEFLOWS/Registration_Pageflow.png)
 ![reset password pageflow](https://github.com/asktami/PasswordResetPHP/blob/master/__PAGEFLOWS/Reset_Password_Pageflow.png)
 
@@ -36,4 +38,3 @@ The FileMaker database includes scripts to dynamically create FileMaker accounts
 ![password reset email sent](https://github.com/asktami/PasswordResetPHP/blob/master/img/Screenshots/6_password_reset_email_sent.png)
 ![password reset email error](https://github.com/asktami/PasswordResetPHP/blob/master/img/Screenshots/7_password_reset_error_email.png)
 ![reset password form](https://github.com/asktami/PasswordResetPHP/blob/master/img/Screenshots/8_reset_password_form.png)
-![multiple field upload form](https://github.com/asktami/PasswordResetPHP/blob/master/img/Screenshots/multiple_file_upload.png)
