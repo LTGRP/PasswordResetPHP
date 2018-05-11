@@ -25,8 +25,8 @@ The FileMaker database includes scripts to dynamically create FileMaker accounts
 
 ## Screenshots
 
-![registration pageflow](https://github.com/asktami/PasswordResetPHP/blob/master/__PAGEFLOWS/Registration%20Pageflow.pdf)
-![reset password pageflow](https://github.com/asktami/PasswordResetPHP/blob/master/__PAGEFLOWS/Reset%20Password%20Pageflow.pdf)
+![registration pageflow](https://github.com/asktami/PasswordResetPHP/blob/master/__PAGEFLOWS/Registration_Pageflow.pdf)
+![reset password pageflow](https://github.com/asktami/PasswordResetPHP/blob/master/__PAGEFLOWS/Reset_Password_Pageflow.pdf)
 
 ![registration form](https://github.com/asktami/PasswordResetPHP/blob/master/img/Screenshots/1_registration_form.png)
 ![login form](https://github.com/asktami/PasswordResetPHP/blob/master/img/Screenshots/2_login_form.png)
