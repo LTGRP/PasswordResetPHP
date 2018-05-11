@@ -110,14 +110,14 @@ document.write("&copy; 1999-" + year );
 <script src="//widget.cloudinary.com/global/all.js" type="text/javascript"></script>
 <script>
 // set cloud_name globally
-  cloudinary.setCloudName('www-asktami-com');
+  cloudinary.setCloudName('YOURCLOUDINARYNAME');
 </script>
 
 <script>
 // function to generate the signature. 
 var generateSignature = function(callback, params_to_sign){
     $.ajax({
-     url     : 'http://127.0.0.1/testphp/PasswordResetPHP/post_login/cloudinary_signature.php',
+     url     : 'http://127.0.0.1/PasswordResetPHP/post_login/cloudinary_signature.php',
      type    : "GET",
      dataType: "text",
      data    : { data: params_to_sign},
@@ -139,12 +139,12 @@ NOTES:
 
 // multiple without cropping
 cloudinary.applyUploadWidget(document.getElementById('multiple'), 
-  {api_key: '274776264367829',
-  		upload_preset: 'cxmxywnw', 
+  {api_key: 'YOUR CLOUDINARY API KEY',
+  		upload_preset: 'YOUR CLOUDINARY UPLOAD PRESET ID', 
         sources: [ 'local', 'url','instagram'],
     //	cropping: 'server', // remove to allow multiple file uploads
     	theme: 'white',
-    	folder: 'user_photos',
+    	folder: 'demo_files',
     	max_files: 100,
     	button_class: 'btn btn-primary',
     	button_caption: 'Upload Files', // if removed will see default "Upload image"
@@ -177,12 +177,12 @@ cloudinary.applyUploadWidget(document.getElementById('multiple'),
   
 // single with cropping
 cloudinary.applyUploadWidget(document.getElementById('single'), 
-  {api_key: '274776264367829',
-  		upload_preset: 'cxmxywnw', 
+  {api_key: 'YOUR CLOUDINARY API KEY',
+  		upload_preset: 'YOUR CLOUDINARY UPLOAD PRESET ID', 
         sources: [ 'local', 'url','instagram'],
     	cropping: 'server', // remove to allow multiple file uploads
     	theme: 'white',
-    	folder: 'user_photos',
+    	folder: 'demo_files',
     	max_files: 100,
     	button_class: 'btn btn-primary',
     	button_caption: 'Upload File (and Crop)', // if removed will see default "Upload image"
