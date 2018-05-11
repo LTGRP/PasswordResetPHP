@@ -19,7 +19,9 @@ The FileMaker database includes scripts to dynamically create FileMaker accounts
 
 ## Inspiration
 [Everything you ever wanted to know about building a secure password reset feature](https://www.troyhunt.com/everything-you-ever-wanted-to-know/)
+
 [PHP: simple multiple file upload](https://gist.github.com/N-Porsh/7766039)
+
 [Handling File Upload With Cloudinary](https://cloudinary.com/blog/file_upload_with_php#handling_file_upload_with_cloudinary)
 
 
