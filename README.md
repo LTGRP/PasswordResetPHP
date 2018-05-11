@@ -24,8 +24,8 @@ This code stores passwords in the database in plain text. <strong>Never store pa
 <ul>
 <li><a href="https://www.troyhunt.com/everything-you-ever-wanted-to-know/" target="_blank">Everything you ever wanted to know about building a secure password reset feature</a></li>
 
-<li><a href="https://gist.github.com/N-Porsh/7766039">PHP: simple multiple file upload</a></li>
+<li><a href="https://gist.github.com/N-Porsh/7766039" target="_blank">PHP: simple multiple file upload</a></li>
 
 <li><a href="https://cloudinary.com/blog/file_upload_with_php#handling_file_upload_with_cloudinary
-">Handling File Upload With Cloudinary</a></li>
+" target="_blank">Handling File Upload With Cloudinary</a></li>
 </ul>
