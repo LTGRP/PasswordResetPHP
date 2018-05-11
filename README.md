@@ -4,7 +4,7 @@ PHP MySQL FileMaker User Registration System with Secure Password Reset and Mult
 User registration and secure password reset code.
 With registration, login, and password reset pages.
 
-Also includes code for uploading files to your web server and to a <a href="https://cloudinary.com/">Cloudinary</a> account.
+Also includes code for uploading files to your web server and to a [Cloudinary](https://cloudinary.com/) account.
 
 Built using PHP, MySQL, FileMaker API for PHP, FileMaker, jQuery and Bootstrap 4.
 You can use either MySQL or FileMaker as your database. Sample MySQL and FileMaker databases included.
@@ -15,6 +15,8 @@ The FileMaker database includes scripts to dynamically create FileMaker accounts
 **NOTE: The FileMaker username is Admin, password is admin.**
  
 **NOTE:** This code stores passwords in the database in plain text. <strong>Never store passwords in plain text!</strong> It is only done here for demonstration purposes. If you use this code in a real site remove all references to the **password_plaintext** field from **register.php** and **reset_password.php** and remove the **password_plaintext** field from the **user** table.
+
+**NOTE:** If you want to use [Cloudinary](https://cloudinary.com/), create your own account and make changes in **cloudinary_settings.php** and **post_login/upload_cloudinary_widget.php**.
 
 
 ## Inspiration
