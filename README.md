@@ -12,7 +12,7 @@ You can use either MySQL or FileMaker as your database. Sample MySQL and FileMak
 The FileMaker database includes scripts to dynamically create FileMaker accounts and put uploaded files into a container field.
 
 
-**NOTE: The FileMaker username is Admin, password is admin.**
+**NOTE: The FileMaker username is Admin, password is admin.** 
  
 **NOTE:** This code stores passwords in the database in plain text. <strong>Never store passwords in plain text!</strong> It is only done here for demonstration purposes. If you use this code in a real site remove all references to the **password_plaintext** field from **register.php** and **reset_password.php** and remove the **password_plaintext** field from the **user** table.
 
