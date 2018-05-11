@@ -29,3 +29,5 @@ This code stores passwords in the database in plain text. <strong>Never store pa
 <li><a href="https://cloudinary.com/blog/file_upload_with_php#handling_file_upload_with_cloudinary
 " target="_blank">Handling File Upload With Cloudinary</a></li>
 </ul>
+
+![registration form](https://github.com/asktami/PasswordResetPHP/blob/master/img/Screenshots/1_registration_form.png)
