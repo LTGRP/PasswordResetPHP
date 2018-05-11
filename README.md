@@ -17,10 +17,11 @@ The FileMaker database includes scripts to dynamically create FileMaker accounts
 
  
 <h2>NOTE:</h2> 
-This code stores passwords in the database in plain text. <strong>Never store passwords in plain text!</strong> It is only done here for demonstration purposes. If you use this code in a real site remove all references to the <em>password_plaintext</em> field from <em>register.php</em> and <em>reset_password.php</em> and remove the <em>password_plaintext</em> field from the <em>user</em> table.
+This code stores passwords in the database in plain text. <strong>Never store passwords in plain text!</strong> It is only done here for demonstration purposes. If you use this code in a real site remove all references to the <strong>password_plaintext</strong> field from <strong>register.php</strong> and <strong>reset_password.php</strong> and remove the <strong>password_plaintext</strong> field from the <strong>user</strong> table.
 
 
-<ul>Inspiration
+<h2>Inspiration</h2>
+<ul>
 <li><a href="https://www.troyhunt.com/everything-you-ever-wanted-to-know/" target="_blank">Everything you ever wanted to know about building a secure password reset feature</a></li>
 
 <li><a href="https://gist.github.com/N-Porsh/7766039">PHP: simple multiple file upload</a></li>
