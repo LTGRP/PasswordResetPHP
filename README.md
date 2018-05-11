@@ -1,4 +1,4 @@
-# PasswordResetPHP
+# PasswordResetPHP (and Multiple File Upload)
 PHP MySQL FileMaker User Registration System with Secure Password Reset and Multiple File Upload
 
 User registration and secure password reset code.
