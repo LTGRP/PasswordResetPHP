@@ -18,17 +18,15 @@ The FileMaker database includes scripts to dynamically create FileMaker accounts
 
 
 ## Inspiration
-[Everything you ever wanted to know about building a secure password reset feature](https://www.troyhunt.com/everything-you-ever-wanted-to-know/)
-
-[PHP: simple multiple file upload](https://gist.github.com/N-Porsh/7766039)
-
-[Handling File Upload With Cloudinary](https://cloudinary.com/blog/file_upload_with_php#handling_file_upload_with_cloudinary)
+* [Everything you ever wanted to know about building a secure password reset feature](https://www.troyhunt.com/everything-you-ever-wanted-to-know/)
+* [PHP: simple multiple file upload](https://gist.github.com/N-Porsh/7766039)
+* [Handling File Upload With Cloudinary](https://cloudinary.com/blog/file_upload_with_php#handling_file_upload_with_cloudinary)
 
 
 ## Screenshots
 
-![registration pageflow](https://github.com/asktami/PasswordResetPHP/blob/master/%20WORKFLOW/Registration%20Workflow.pdf)
-![reset password pageflow](https://github.com/asktami/PasswordResetPHP/blob/master/%20WORKFLOW/Reset%20Password%20Workflow.pdf)
+![registration pageflow](https://github.com/asktami/PasswordResetPHP/blob/master/__PAGEFLOWS/Registration%20Pageflow.pdf)
+![reset password pageflow](https://github.com/asktami/PasswordResetPHP/blob/master/__PAGEFLOWS/Reset%20Password%20Pageflow.pdf)
 
 ![registration form](https://github.com/asktami/PasswordResetPHP/blob/master/img/Screenshots/1_registration_form.png)
 ![login form](https://github.com/asktami/PasswordResetPHP/blob/master/img/Screenshots/2_login_form.png)
