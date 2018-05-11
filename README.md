@@ -7,9 +7,13 @@ With registration, login, and password reset pages.
 Also includes code for uploading files to your web server and to a <a href="https://cloudinary.com/">Cloudinary</a> account.
 
 Built using PHP, MySQL, FileMaker API for PHP, FileMaker, jQuery and Bootstrap 4.
-You can use either MySQL or FileMaker as you database. Sample MySQL and FileMaker databases included.
+You can use either MySQL or FileMaker as your database. Sample MySQL and FileMaker databases included.
 
 The FileMaker database includes scripts to dynamically create FileMaker accounts and put uploaded files into a container field.
+
+
+*** NOTE ***
+The FileMaker username is Admin, password is admin.
 
  
 <h2>NOTE:</h2> 
