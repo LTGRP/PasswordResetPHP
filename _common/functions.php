@@ -26,12 +26,12 @@ function sendMail($to, $subject, $message, $name='', $filename='', $url='')
 			 $mail->SMTPDebug = 0;
 			 $mail->Debugoutput = 'html';
 			 $mail->SMTPAuth   = true;
-			 $mail->Host       = 'mail4.pointinspace.com';
-			 $mail->Port       = 587;
-			 $mail->Username   = 'tami@asktami.com';
-			 $mail->Password   = 'admin!23';
-			 $mail->setFrom('tami@asktami.com', 'Tami Williams');
-			 $mail->addReplyTo('tami@asktami.com', 'Tami Williams');
+			 $mail->Host       = 'YOURMAILHOST';
+			 $mail->Port       = PORT_NUMBER;
+			 $mail->Username   = 'YOUREMAILADDRESS';
+			 $mail->Password   = 'YOURPASSWORD';
+			 $mail->setFrom('FROMEMAILADDRESS', 'FROMNAME');
+			 $mail->addReplyTo('REPLYTOEMAILADDRESS', 'REPLYTONAME');
 			 $mail->Subject    = $subject;
 			 
 			 if(!empty($name)){
