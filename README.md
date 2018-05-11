@@ -16,7 +16,7 @@ The FileMaker database includes scripts to dynamically create FileMaker accounts
  
 **NOTE:** This code stores passwords in the database in plain text. <strong>Never store passwords in plain text!</strong> It is only done here for demonstration purposes. If you use this code in a real site remove all references to the **password_plaintext** field from **register.php** and **reset_password.php** and remove the **password_plaintext** field from the **user** table.
 
-**NOTE:** If you want to use [Cloudinary](https://cloudinary.com/), create your own account and make changes in **cloudinary_settings.php** and **post_login/upload_cloudinary_widget.php**.
+**NOTE:** If you want to use [Cloudinary](https://cloudinary.com/), create your own account and make changes in **cloudinary_settings.php**, **post_login/cloudinary_signature.php**, and **post_login/upload_cloudinary_widget.php**.
 
 
 ## Inspiration
