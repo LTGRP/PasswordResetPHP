@@ -1,9 +1,7 @@
 # Files with My Personal Notes
   MyNOTES.txt
   ___ReadMe.txt
-PHPMailer/sendmailsmtprelay ASKTAMI.php
-PHPMailer/sendmailsmtprelay.php
-PHPMailer/testMailer.php
+PHPMailer/zzz_IGNORE/*
 _common/functions LIVE.php
 *.graffle
 *~
