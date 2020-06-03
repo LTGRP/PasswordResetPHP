@@ -21,13 +21,15 @@ The FileMaker database includes scripts to dynamically create FileMaker accounts
 **NOTE:** The FileMaker PHP API is not compatible with PHP 7. And the FMS installer since 17.0.3 installs PHP 7! Fortunately, there’s a mod of it that’s made it compatible: [https://github.com/matatirosolutions/filemakerapi](https://github.com/matatirosolutions/filemakerapi). Swap out the original FileMaker.php file and FileMaker folder with these, and you should be good as long as your PHP is PHP 7 compatible.
 
 
+## Demo
+[Register, Login, Try Everything Out](http://www.asktami.com/demo/PasswordResetPHP/index.php?page=register&register)
+
+
 ## Inspiration
 * [Everything you ever wanted to know about building a secure password reset feature](https://www.troyhunt.com/everything-you-ever-wanted-to-know/)
 * [PHP: simple multiple file upload](https://gist.github.com/N-Porsh/7766039)
 * [Handling File Upload With Cloudinary](https://cloudinary.com/blog/file_upload_with_php#handling_file_upload_with_cloudinary)
 
-## Demo
-[Register, Login, Try Everything Out](http://www.asktami.com/demo/PasswordResetPHP/index.php?page=register&register)
 
 ## Screenshots
 
